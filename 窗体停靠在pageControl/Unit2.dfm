@@ -1,0 +1,36 @@
+object Form2: TForm2
+  Left = 0
+  Top = 0
+  Caption = 'Form2'
+  ClientHeight = 231
+  ClientWidth = 505
+  Color = clBtnFace
+  DragKind = dkDock
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object pnl1: TPanel
+    Left = 0
+    Top = 0
+    Width = 505
+    Height = 231
+    Align = alClient
+    Caption = 'pnl1'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -67
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 0
+    ExplicitLeft = 144
+    ExplicitTop = 120
+    ExplicitWidth = 185
+    ExplicitHeight = 41
+  end
+end
